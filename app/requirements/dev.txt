@@ -1,0 +1,5 @@
+black==21.5b2
+isort==5.8.0
+pylint-django==2.4.4
+
+-r requirements.txt
